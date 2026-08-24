@@ -1,16 +1,16 @@
 {
-    "version": "0.4.32",
+    "version": "0.4.33",
     "description": "Multica CLI - multi-agent AI coding assistant",
     "homepage": "https://github.com/multica-ai/multica",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/multica-ai/multica/releases/download/v0.4.32/multica-cli-0.4.32-windows-amd64.zip",
-            "hash": "e4da4fed8567f9983c357cacdab694d08c5364bd0dfec37fdd6f95a56d782133"
+            "url": "https://github.com/multica-ai/multica/releases/download/v0.4.33/multica-cli-0.4.33-windows-amd64.zip",
+            "hash": "c5ba7ff2e4e87bb48d5aad50336f8e440d00321fc099928ab50353b81b301655"
         },
         "arm64": {
-            "url": "https://github.com/multica-ai/multica/releases/download/v0.4.32/multica-cli-0.4.32-windows-arm64.zip",
-            "hash": "cb69ce90a6226ead0f2162d3d96081f8c750c80d5ea208ed2890a33a703b36c0"
+            "url": "https://github.com/multica-ai/multica/releases/download/v0.4.33/multica-cli-0.4.33-windows-arm64.zip",
+            "hash": "945498992c715b4e12dc08ecf1d4b2ce8a71712a4be55f9a3453c095f5959d02"
         }
     },
     "bin": "multica.exe",
